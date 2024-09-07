@@ -1,5 +1,6 @@
 # Catálogo de Publicações do Curso de Engenharia de Software
 
+## 2024
 
 1. Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis. **Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2024.
     <details>
@@ -31,7 +32,7 @@
     ```
     </details>
 
-3. João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
+3. João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -45,3 +46,5 @@
     }
     ```
     </details>
+
+## 2023
