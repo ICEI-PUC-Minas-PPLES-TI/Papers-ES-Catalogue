@@ -7,7 +7,7 @@
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
     ```
-    @inproceedings{QualidadeMOOC:VEM:2024
+    @inproceedings{QualidadeMOOC:VEM:2024,
         author = {Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis},
         title = {Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos},
         booktitle = {12th Workshop on Software Visualization, Maintenance and Evolution (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
@@ -22,7 +22,7 @@
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
     ```
-    @inproceedings{GitHubActions:VEM:2024
+    @inproceedings{GitHubActions:VEM:2024,
         author = {Edson Campolina Silva, Rodolfo Rodrigues, Johnatan Oliveira, Danilo Boechat, Cleiton Tavares},
         title = {Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions},
         booktitle = {12th Workshop on Software Visualization, Maintenance and Evolution (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
@@ -32,14 +32,29 @@
     ```
     </details>
 
-3. João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
+3. João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
     ```
-    @inproceedings{Terraform:SBES:IIER:2024
+    @inproceedings{Terraform:SBES:IIER:2024,
         author = {João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares},
         title = {Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions},
+        booktitle = {XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
+        pages = {1--6},
+        year = {2024}
+    }
+    ```
+    </details>
+
+4.  Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
+    <details>
+    <summary><i style="color: skyblue;">Bibtex</i></summary>
+    
+    ```
+    @inproceedings{TechnicalDebt:SBES:IIER:2024,
+        author = {Pedro Lambert, Lucila Ishtiani, Laerte Xavier},
+        title = {On the Identification of Self-Admitted Technical Debt with Large Language Models},
         booktitle = {XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
         pages = {1--6},
         year = {2024}
