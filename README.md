@@ -62,4 +62,19 @@
     ```
     </details>
 
-## 2023
+## 2022
+
+1. Altino Alves Júnior, Letícia de Souza Meireles, Lucas Alves Rossi Figueira, Vítor Marcondes Morais Carmo, Vítor Marcondes Morais Carmo, Humberto T. Marques-Neto, Laerte Xavier. **Entendendo o engajamento das comunidades front-end e back-end nos repositórios do GitHub**. _10th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIII Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2022.
+    <details>
+    <summary><i style="color: skyblue;">Bibtex</i></summary>
+    
+    ```
+    @inproceedings{QualidadeMOOC:VEM:2024,
+        author = {Altino Alves Júnior, Letícia de Souza Meireles, Lucas Alves Rossi Figueira, Vítor Marcondes Morais Carmo, Vítor Marcondes Morais Carmo, Humberto T. Marques-Neto, Laerte Xavier},
+        title = {Entendendo o engajamento das comunidades front-end e back-end nos repositórios do GitHub},
+        booktitle = {10th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIII Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
+        pages = {1--12},
+        year = {2022}
+    }
+    ```
+    </details>
