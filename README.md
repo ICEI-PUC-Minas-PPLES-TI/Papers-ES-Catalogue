@@ -2,7 +2,7 @@
 
 ## 2024
 
-1. <a href="">:open_file_folder:</a> Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis. **Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2024.
+1. <a href="papers/2024_vem_cbsoft_qualidade_mooc.pdf">:open_file_folder:</a> Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis. **Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -17,7 +17,7 @@
     ```
     </details>
 
-2. <a href="">:open_file_folder:</a> Edson Campolina Silva, Rodolfo Rodrigues, Johnatan Oliveira, Danilo Boechat, Cleiton Tavares. **Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
+2. <a href="papers/2024_vem_cbsoft_github_actions.pdf">:open_file_folder:</a> Edson Campolina Silva, Rodolfo Rodrigues, Johnatan Oliveira, Danilo Boechat, Cleiton Tavares. **Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -32,7 +32,7 @@
     ```
     </details>
 
-3. <a href="">:open_file_folder:</a> João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
+3. <a href="papers/2024_sbes_iier_terraform.pdf">:open_file_folder:</a> João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -47,7 +47,7 @@
     ```
     </details>
 
-4. <a href="">:open_file_folder:</a> Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
+4. Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -64,7 +64,7 @@
 
 ## 2023
 
-1. <a href="">:open_file_folder:</a> Erick Vinicius Oliveira de Paiva, Guilherme Carvalho, João Pedro Mayrink, Maria Maruch, Pedro Costa, Gabriel Pacheco, Laerte Xavier. **Caracterização da população LGBTQIA+ na plataforma GitHub**. _11th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2023.
+1. Erick Vinicius Oliveira de Paiva, Guilherme Carvalho, João Pedro Mayrink, Maria Maruch, Pedro Costa, Gabriel Pacheco, Laerte Xavier. **Caracterização da população LGBTQIA+ na plataforma GitHub**. _11th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2023.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -82,7 +82,7 @@
 
 ## 2022
 
-1. <a href="">:open_file_folder:</a> Altino Alves Júnior, Letícia de Souza Meireles, Lucas Alves Rossi Figueira, Vítor Marcondes Morais Carmo, Vítor Marcondes Morais Carmo, Humberto T. Marques-Neto, Laerte Xavier. **Entendendo o engajamento das comunidades front-end e back-end nos repositórios do GitHub**. _10th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIII Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2022.
+1. Altino Alves Júnior, Letícia de Souza Meireles, Lucas Alves Rossi Figueira, Vítor Marcondes Morais Carmo, Vítor Marcondes Morais Carmo, Humberto T. Marques-Neto, Laerte Xavier. **Entendendo o engajamento das comunidades front-end e back-end nos repositórios do GitHub**. _10th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIII Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2022.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
