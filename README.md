@@ -64,7 +64,7 @@
 
 ## 2023
 
-1. Erick Vinicius Oliveira de Paiva, Guilherme Carvalho, João Pedro Mayrink, Maria Maruch, Pedro Costa, Gabriel Pacheco, Laerte Xavier. **Caracterização da população LGBTQIA+ na plataforma GitHub**. _11th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2023.
+1. <a href="papers/**2024_sbes_iier_terraform.pdf**">:open_file_folder:</a> Erick Vinicius Oliveira de Paiva, Guilherme Carvalho, João Pedro Mayrink, Maria Maruch, Pedro Costa, Gabriel Pacheco, Laerte Xavier. **Caracterização da população LGBTQIA+ na plataforma GitHub**. _11th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2023.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
