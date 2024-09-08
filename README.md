@@ -1,4 +1,4 @@
-# Catálogo de Publicações do Curso de Engenharia de Software
+# Catálogo de Publicações do Bacharelado em Engenharia de Software da PUC Minas
 
 ## 2024
 
