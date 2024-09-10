@@ -67,7 +67,7 @@
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
     ```
-    @inproceedings{TechnicalDebt:SBES:IIER:2024,
+    @inproceedings{ESVerde:EduComp:2024,
         author = {Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani},
         title = {Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software},
         booktitle = {VI Simpósio Brasileiro de Educação em Computação (EduComp)}, 
