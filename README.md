@@ -62,7 +62,7 @@
     ```
     </details>
 
-5. <a href="papers/2024_educomp_es_verde.pdf">:open_file_folder:</a> Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani. **Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software**. _Simpósio Brasileiro de Educação em Computação (EduComp)_, p. 1-11, 2024.
+5. <a href="papers/2024_educomp_es_verde.pdf">:open_file_folder:</a> Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani. **Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software**. _VI Simpósio Brasileiro de Educação em Computação (EduComp)_, p. 1-11, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
