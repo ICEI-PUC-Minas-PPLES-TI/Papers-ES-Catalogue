@@ -62,6 +62,21 @@
     ```
     </details>
 
+5. <a href="papers/2024_educomp_es_verde.pdf">:open_file_folder:</a> Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani. **Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software**. _Simpósio Brasileiro de Educação em Computação (EduComp)_, p. 1-11, 2024.
+    <details>
+    <summary><i style="color: skyblue;">Bibtex</i></summary>
+    
+    ```
+    @inproceedings{TechnicalDebt:SBES:IIER:2024,
+        author = {Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani},
+        title = {Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software},
+        booktitle = {VI Simpósio Brasileiro de Educação em Computação (EduComp)}, 
+        pages = {1--11},
+        year = {2024}
+    }
+    ```
+    </details>
+
 ## 2023
 
 1. <a href="papers/2023_vem_cbsoft_caracterizacao_lgbtqia_github.pdf">:open_file_folder:</a> Erick Vinicius Oliveira de Paiva, Guilherme Carvalho, João Pedro Mayrink, Maria Maruch, Pedro Costa, Gabriel Pacheco, Laerte Xavier. **Caracterização da população LGBTQIA+ na plataforma GitHub**. _11th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-5, 2023.
