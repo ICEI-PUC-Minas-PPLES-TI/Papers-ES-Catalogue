@@ -47,7 +47,7 @@
     ```
     </details>
 
-4. Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
+4. <a href="papers/2024_sbes_iier_tech_debt.pdf">:open_file_folder:</a> Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
