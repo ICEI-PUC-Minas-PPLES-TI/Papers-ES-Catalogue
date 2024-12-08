@@ -8,7 +8,7 @@
     
     ```
     @inproceedings{QualidadeMOOC:VEM:2024,
-        author = {Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis},
+        author = {Otávio Vinícius Rocha and Aline Brito and Cleiton Tavares and Laerte Xavier and Simone Assis},
         title = {Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos},
         booktitle = {12th Workshop on Software Visualization, Maintenance and Evolution (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
         pages = {1--12},
@@ -23,7 +23,7 @@
     
     ```
     @inproceedings{GitHubActions:VEM:2024,
-        author = {Edson Campolina Silva, Rodolfo Rodrigues, Johnatan Oliveira, Danilo Boechat, Cleiton Tavares},
+        author = {Edson Campolina Silva and Rodolfo Rodrigues and Johnatan Oliveira and Danilo Boechat and Cleiton Tavares},
         title = {Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions},
         booktitle = {12th Workshop on Software Visualization, Maintenance and Evolution (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
         pages = {1--12},
@@ -38,7 +38,7 @@
     
     ```
     @inproceedings{Terraform:SBES:IIER:2024,
-        author = {João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares},
+        author = {João Frois and Lucas Padrão and Johantan Oliveira and Laerte Xavier and Cleiton Tavares},
         title = {Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions},
         booktitle = {XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
         pages = {1--6},
@@ -53,7 +53,7 @@
     
     ```
     @inproceedings{TechnicalDebt:SBES:IIER:2024,
-        author = {Pedro Lambert, Lucila Ishtiani, Laerte Xavier},
+        author = {Pedro Lambert and Lucila Ishtiani and Laerte Xavier},
         title = {On the Identification of Self-Admitted Technical Debt with Large Language Models},
         booktitle = {XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
         pages = {1--6},
@@ -68,7 +68,7 @@
     
     ```
     @inproceedings{ESVerde:EduComp:2024,
-        author = {Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani},
+        author = {Matheus Ataíde and Gustavo Silva and Cleiton Tavares and Laerte Xavier and Lucila Ishitani},
         title = {Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software},
         booktitle = {VI Simpósio Brasileiro de Educação em Computação (EduComp)}, 
         pages = {1--11},
@@ -85,7 +85,7 @@
     
     ```
     @inproceedings{LGBTQIA:GitHub:VEM:2023,
-        author = {Erick Vinicius Oliveira de Paiva, Guilherme Carvalho, João Pedro Mayrink, Maria Maruch, Pedro Costa, Gabriel Pacheco, Laerte Xavier},
+        author = {Erick Vinicius Oliveira de Paiva and Guilherme Carvalho and João Pedro Mayrink and Maria Maruch and Pedro Costa and Gabriel Pacheco and Laerte Xavier},
         title = {Entendendo o engajamento das comunidades front-end e back-end nos repositórios do GitHub},
         booktitle = {11th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XIV Brazilian Conference on Software: Theory and Practice (CBSoft)}, 
         pages = {1--5},
