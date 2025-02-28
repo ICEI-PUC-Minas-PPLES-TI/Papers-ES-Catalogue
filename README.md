@@ -2,7 +2,22 @@
 
 ## 2024
 
-1. <a href="papers/2024_vem_cbsoft_qualidade_mooc.pdf">:open_file_folder:</a> Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis. **Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2024.
+1. <a href="papers/2025_educomp_youtube_desenvolvedores.pdf">:open_file_folder:</a> Gabriel Victor de Paula, João Victor Guerra, Luís Antônio Souza, Luiz Gustavo Soares, Pedro Henrique Machado, Aline Brito, Laerte Xavier. **Explorando o YouTube como Fonte de Aprendizado para Desenvolvedores: Uma Análise em Larga Escala sobre Vídeos de Tecnologia**. _V Simpósio Brasileiro de Educação em Computação (EduComp)_, p. 1-13, 2025.
+    <details>
+    <summary><i style="color: skyblue;">Bibtex</i></summary>
+    
+    ```
+    @inproceedings{YouTubeDesenvolvedores:EduComp:2025,
+        author = {Gabriel Victor de Paula and João Victor Guerra and Luís Antônio Souza and Luiz Gustavo Soares and  Pedro Henrique Machado and Aline Brito and Laerte Xavier},
+        title = {Explorando o YouTube como Fonte de Aprendizado para Desenvolvedores: Uma Análise em Larga Escala sobre Vídeos de Tecnologia},
+        booktitle = {V Simpósio Brasileiro de Educação em Computação (EduComp)}, 
+        pages = {1--13},
+        year = {2025}
+    }
+    ```
+    </details>
+    
+2. <a href="papers/2024_vem_cbsoft_qualidade_mooc.pdf">:open_file_folder:</a> Otávio Vinícius Rocha, Aline Brito, Cleiton Tavares, Laerte Xavier, Simone Assis. **Analisando a Qualidade do Código em Plataformas de Cursos Online Abertos e Massivos**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-12, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -17,7 +32,7 @@
     ```
     </details>
 
-2. <a href="papers/2024_vem_cbsoft_github_actions.pdf">:open_file_folder:</a> Edson Campolina Silva, Rodolfo Rodrigues, Johnatan Oliveira, Danilo Boechat, Cleiton Tavares. **Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
+3. <a href="papers/2024_vem_cbsoft_github_actions.pdf">:open_file_folder:</a> Edson Campolina Silva, Rodolfo Rodrigues, Johnatan Oliveira, Danilo Boechat, Cleiton Tavares. **Evaluating Test Quality in GitHub Repositories: A Comparative Analysis of CI/CD Practices Using GitHub Actions**. _12th Brazilian Workshop on Software Visualization, Evolution and Maintenance (VEM). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-11, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -32,7 +47,7 @@
     ```
     </details>
 
-3. <a href="papers/2024_sbes_iier_terraform.pdf">:open_file_folder:</a> João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
+4. <a href="papers/2024_sbes_iier_terraform.pdf">:open_file_folder:</a> João Frois, Lucas Padrão, Johantan Oliveira, Laerte Xavier, Cleiton Tavares. **Terraform and AWS CDK: A Comparative Analysis of Infrastructure Management Tools**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -47,7 +62,7 @@
     ```
     </details>
 
-4. <a href="papers/2024_sbes_iier_tech_debt.pdf">:open_file_folder:</a> Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
+5. <a href="papers/2024_sbes_iier_tech_debt.pdf">:open_file_folder:</a> Pedro Lambert, Lucila Ishtiani, Laerte Xavier. **On the Identification of Self-Admitted Technical Debt with Large Language Models**. _XXXVIII Brazilian Symposium on Software Engineering -  Ideas and Emerging Results Track (SBES IIER). XV Brazilian Conference on Software: Theory and Practice (CBSoft)_, p. 1-6, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
@@ -62,7 +77,7 @@
     ```
     </details>
 
-5. <a href="papers/2024_educomp_es_verde.pdf">:open_file_folder:</a> Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani. **Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software**. _VI Simpósio Brasileiro de Educação em Computação (EduComp)_, p. 1-11, 2024.
+6. <a href="papers/2024_educomp_es_verde.pdf">:open_file_folder:</a> Matheus Ataíde, Gustavo Silva, Cleiton Tavares, Laerte Xavier, Lucila Ishitani. **Conteúdos de Engenharia de Software Verde em Cursos de Graduação em Engenharia de Software**. _VI Simpósio Brasileiro de Educação em Computação (EduComp)_, p. 1-11, 2024.
     <details>
     <summary><i style="color: skyblue;">Bibtex</i></summary>
     
